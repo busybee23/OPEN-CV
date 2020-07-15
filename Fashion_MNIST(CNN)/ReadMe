@@ -1,0 +1,3 @@
+Here, in a simple machine learning model CNN has been implemented to make it more precise, clear, effective 
+2 Additonal layers : tf.keras.layers.Conv2D and tf.keras.layers.MaxPool2D has been applied to optimise the results.
+Platform used : Google Collab to imply Tensorflow.
