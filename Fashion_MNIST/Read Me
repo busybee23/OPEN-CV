@@ -1,0 +1,4 @@
+In this project, we'll build and train a neural network to classify images of clothing, like sneakers and shirts.
+Dataset is famous dataset from keras API i:e; Fashion MNIST which contains 70000 28*28 pixel grayscale images of different clothing, like top, handbags and sneakers.
+The goal is to get the general sense of a TensorFlow project.
+This guide uses tf.keras, a high-level API to build and train models in TensorFlow.
